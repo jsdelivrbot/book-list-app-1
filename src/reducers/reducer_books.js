@@ -1,6 +1,5 @@
 export default function() {
-    return 
-        [
+    return [
             { title: 'JS: the good parts' },
             { title: 'Harry Potter' },
             { title:'The Dark tower '},
